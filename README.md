@@ -110,8 +110,8 @@ rwendopay/
 This project is licensed under the MIT License. Authored by Byron Chamunorwa Hondo.
 
 ## Contact
-* **Email:** [your.email@example.com](mailto:hondobyronc@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/byronhondo)
+* **Email:** [hondobyronc@gmail.com](mailto:hondobyronc@gmail.com)
+* **LinkedIn:** [linkedin.com/in/byronhondo](https://www.linkedin.com/in/byronhondo)
 
 ## Acknowledgments
 * **Author:** Byron Chamunorwa Hondo
@@ -222,8 +222,8 @@ rwendopay/
 This project is licensed under the MIT License. Authored by Byron Chamunorwa Hondo.
 
 ## Contact
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+* **Email:** [hondobyronc@gmail.com](mailto:hondobyronc@gmail.com)
+* **LinkedIn:** [linkedin.com/in/byronhondo](https://www.linkedin.com/in/byronhondo)
 
 ## Acknowledgments
 * **Author:** Byron Chamunorwa Hondo
