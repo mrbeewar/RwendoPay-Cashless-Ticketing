@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "223986387958",
+    "firebase_url": "https://zimtap-default-rtdb.firebaseio.com",
+    "project_id": "zimtap",
+    "storage_bucket": "zimtap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223986387958:android:05d4934ef34ae9e25515d7",
+        "android_client_info": {
+          "package_name": "com.mrbeewar.zimtap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223986387958-gkeks7pq2s5ntd9ro044afqlocvt8vkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrbeewar.zimtap",
+            "certificate_hash": "a45bd167d7e306dc42310bcf8d5f4c51f9a15a53"
+          }
+        },
+        {
+          "client_id": "223986387958-8kaj1t7aos8lntt17h1jj33cctsv6e6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5-sBS39H_OQwmKH3rfPmSaxL2PDxmWuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223986387958-8kaj1t7aos8lntt17h1jj33cctsv6e6i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223986387958-nf498hrm2mld30pf2ahpm7rs4qudsucj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrbeewar.zimtap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
